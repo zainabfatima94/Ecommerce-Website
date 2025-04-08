@@ -2,14 +2,14 @@ E-commerce Website
 
 Thsi website contains multiple pages offering different products.
 1. Home Page: 
-  - Home Section
-  - Benefits Section
-  - Featured Products
-  - Deals Section
-  - New Arrivals Section
-  - Deals Section 2
-  - Newsletter Section
-  - CTA Section
+   - Home Section
+   - Benefits Section
+   - Featured Products
+   - Deals Section
+   - New Arrivals Section
+   - Deals Section 2
+   - Newsletter Section
+   - CTA Section
 
 2. Shop Page:
    - Shop Items
