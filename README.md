@@ -1,6 +1,6 @@
 E-commerce Website
 
-Thsi website contains multiple pages offering different products.
+This website contains multiple pages offering different products.
 1. Home Page: 
    - Home Section
    - Benefits Section
